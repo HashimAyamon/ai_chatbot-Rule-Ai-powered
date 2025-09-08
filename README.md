@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2022/11/18/14/12/ai-technology-8623019_1280.png" alt="Chatbot in Browser" width="600"/>
+  ![Chatbot in Browser](https://cdn.pixabay.com/photo/2022/11/18/14/12/ai-technology-8623019_1280.png)
 </p>
+
 
 <h1 align="center">Python Chatbot: Rule-based & AI-powered</h1>
 
