@@ -47,3 +47,19 @@ python rulebased.py
 
 AI-powered chatbot:
 python aiPowered.py
+
+
+
+
+
+
+
+
+
+
+## Assets & Attribution
+
+-  image by [Pexels](https://www.pexels.com/photo/man-with-chatgpt-in-laptop-16094043/)  
+
+
+All images are used under free license terms and proper attribution is provided.
