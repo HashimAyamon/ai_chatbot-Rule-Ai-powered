@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["https://example.com/browser_demo.png](https://unsplash.com/photos/a-robot-sitting-on-top-of-a-laptop-computer-DPnsHsLep2M" alt="Chatbot in Browser" width="600"](https://pixabay.com/illustrations/ai-generated-robot-technology-8623019/)/>
+  <img src="https://cdn.pixabay.com/photo/2022/11/18/14/12/ai-technology-8623019_1280.png" alt="Chatbot in Browser" width="600"/>
 </p>
 
 <h1 align="center">Python Chatbot: Rule-based & AI-powered</h1>
