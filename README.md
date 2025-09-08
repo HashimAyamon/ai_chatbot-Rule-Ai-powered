@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https:/www.pexels.com/photo/man-with-chatgpt-in-laptop-16094043/"/>
+  <img src="https://images.pexels.com/photos/16094043/pexels-photo-16094043.jpeg"/>
 </p>
 
 <h1 align="center">Python Chatbot: Rule-based & AI-powered</h1>
