@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Chatbot Logo" width="150"/>
+</p>
+
+<h1 align="center">Python Chatbot: Rule-based & AI-powered</h1>
+
+<p align="center">
+  A versatile chatbot in Python that supports both rule-based and AI-driven responses.
+</p>
+
+
+
 Rule-based Chatbot:
 
 Responds based on predefined rules and patterns.
