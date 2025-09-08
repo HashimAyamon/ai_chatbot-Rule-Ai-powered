@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://pixabay.com/illustrations/ai-generated-robot-technology-8623019/"/>
+  <img src="https:/www.pexels.com/photo/man-with-chatgpt-in-laptop-16094043/"/>
 </p>
-
 
 <h1 align="center">Python Chatbot: Rule-based & AI-powered</h1>
 
