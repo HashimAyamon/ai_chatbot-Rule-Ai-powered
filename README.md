@@ -1,5 +1,5 @@
 <p align="center">
-  ![Chatbot in Browser](https://cdn.pixabay.com/photo/2022/11/18/14/12/ai-technology-8623019_1280.png)
+  <img src="https://pixabay.com/illustrations/ai-generated-robot-technology-8623019/"/>
 </p>
 
 
